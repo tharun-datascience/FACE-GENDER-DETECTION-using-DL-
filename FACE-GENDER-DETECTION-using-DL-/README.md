@@ -61,10 +61,4 @@ Cloud-based face data storage.
 
 Recognized faces highlighted in real-time video feed with labels.
 
-🧑‍💻 Author
 
-S.SRI CHARAN
-
-GitHub: charan10187
-
-LinkedIn: sri-charan-surepallii
